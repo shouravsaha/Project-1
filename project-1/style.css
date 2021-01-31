@@ -1,0 +1,67 @@
+/*--universal and body css--*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff7f7;
+}
+/*--top navigation image css--*/
+.picture{
+    height: 250px;
+    width: 100%;
+}
+/*Carousel css*/
+#shourav{
+    padding: 8px;
+}
+/*card css*/
+.icon{
+    font-size: 40px;
+}
+.box{
+    padding: 3px;
+    border: ridge;
+}
+.date{
+    background: #ec3c6a;
+    color: #fff;
+    top: 0;
+    right: 0;
+    display: block;
+    padding: 2px 3px;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+}
+.date1{
+    color: blue;
+}
+/*right sidebar*/
+.sidebar{
+    border-top: 7px solid;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+    margin-top: 7px;
+    padding: 10px;
+    background-color: transparent;
+}
+/*--button group--*/
+.button{
+    margin-top: 20px;
+    margin-left: 30%;
+    border: 2px solid;
+}
+.button .button1:hover{
+    background-color: #0062cc;
+}
+/*--footer content--*/
+.footer_content{
+    margin-top: 60px;
+}
+
+
+
+
